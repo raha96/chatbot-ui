@@ -1,0 +1,12 @@
+{
+  "New prompt": "اعلان جدید",
+  "New folder": "پوشه‌ی جدید",
+  "No prompts.": "اعلانی یافت نشد.",
+  "Search prompts...": "جستجو در اعلان‌ها",
+  "Name": "نام",
+  "Description": "توضیح",
+  "A description for your prompt.": "توضیح اعلان.",
+  "Prompt": "اعلان",
+  "Prompt content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "محتوای اعلان. از {{}} برای مشخص‌کردن متغیرها استفاده کنید. مثال: {{name}} یک {{adjective}} {{noun}} است.",
+  "Save": "ذخیره"
+}
